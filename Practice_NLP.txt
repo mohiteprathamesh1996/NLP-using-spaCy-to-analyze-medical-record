@@ -1,0 +1,18 @@
+The BWH ED Nursing Record and other paper documents are still available through scanned documents in LMR. Select Results Menu, select Links, and then BWH Inpt/ED/Day Surg Scanned Record. If you need further assistance, please contact the Help Desk at (617) 732-5927.
+
+The above is an example of a real header you might encounter within a note. This is some additional random text that is not relevant for our
+task at hand. 
+
+
+The patient came in at around 11:00AM today. They were seen around 11:30 AM. Their primary complaint was ongoing issues with their memory. 
+They have been seeing their PCP at MGH for 10 years. Their primary care physician noted about a year ago that the patient's memory was declining. 
+They ran a cognitive test but did not find evidence of dementia. They have no family history of Alzheimer's. They called after their visit at 
+3  PM, requesting a refill for their Metformin. 
+
+Lab values: 
+HBA1c 9.0
+TUC 204
+ABCDKFKS 3 
+
+It is recommended that the patient see a neurologist, as they have not done so yet. The subject denies MCI but it appears like they 
+may have early stage dementia. The patient will continue their metformin and check back in with me in six weeks.
